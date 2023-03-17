@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BoomerT6
 - 👀 I’m interested in 3D Printing and have built a Core XY printer of my own design.
-- 🌱 I’m currently learning how to use Marlin formware and configure it for my needs.
+- 🌱 I’m currently learning how to use Klipper firmware and configure it for my needs.
 - 💞️ I’m looking to collaborate on similar build project to the above.
 
 
